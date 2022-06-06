@@ -1,0 +1,34 @@
+/*Pagina*/
+html{
+    background-color: gray;
+}
+/*Icono*/
+.icono{
+    width: 10%;
+    float: left;
+}
+/*Cabecera*/
+.header--text{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    display:block;
+    margin-top: .3em;
+    margin-right: .3em;
+    font-size: xx-large;
+}
+/*Carrusel*/
+.carousel--text{
+    margin-top: auto !important; 
+    margin-bottom: auto !important;
+}
+.texto{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 700; 
+    font-family: 'Josefin Sans', sans-serif
+}
+/*tarjetas*/
+.texto--tarjeta{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
